@@ -1,0 +1,17 @@
+{
+  "name": "codesmells",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "juan cruz saldaña",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
